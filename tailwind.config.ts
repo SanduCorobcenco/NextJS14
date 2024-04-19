@@ -18,7 +18,7 @@ const config: Config = {
           600: '#2F6FEB',
         },
       },
-    },
+    }, 
     keyframes: {
       shimmer: {
         '100%': {
